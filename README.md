@@ -1,5 +1,4 @@
 # Dungeon Dungeon EXTREME v2 mk3 reloaded the original; by M1productions
-<br><br><br>
 Rules for characters on maps:
 
 █ -> darkness <br>
